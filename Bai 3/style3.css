@@ -1,0 +1,90 @@
+body {
+  background-color: #1c233d;
+  height: 100vh;
+}
+body p {
+  color: white;
+}
+.navbar {
+  background-color: #1c233d !important;
+}
+.nav-link {
+  color: #e5e5e5 !important;
+  font-family: Space Grotesk;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.navbar-brand {
+  color: #e5e5e5;
+
+  font-family: Space Grotesk;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+main {
+  padding-top: 77px;
+}
+.card {
+  background-color: #1c233d;
+  border: none;
+}
+.main-text {
+  color: #fff;
+  font-family: "Space Grotesk";
+  font-size: 60px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+.detail-text {
+  color: #ffff;
+  font-family: Poppins;
+  font-size: 13px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+button.discover {
+  display: inline-flex;
+  padding: 8px 31px 9px 29px;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  width: fit-content;
+  border-radius: 5px;
+  background: linear-gradient(
+    86deg,
+    rgba(191, 196, 238, 0.09) -105.02%,
+    #c367e6 10.94%,
+    rgba(190, 206, 239, 0) 121.57%
+  );
+  margin-bottom: 70px;
+}
+.sum .card .no {
+  color: #fff;
+  font-family: Space Grotesk;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+}
+
+.monkey {
+  border-radius: 10px;
+  background: #30384d;
+  padding: 25px;
+}
+
+.monkey .img-monkey img {
+    width: 100%;
+}
+
+footer {
+  margin-top: 70px;
+  display: flex;
+  justify-content: center;
+}
